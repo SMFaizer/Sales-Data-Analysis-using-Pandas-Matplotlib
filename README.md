@@ -75,9 +75,3 @@ Graphs include:
 The dataset used in this project was provided by [Keith Galli](https://github.com/KeithGalli) and includes monthly sales CSV files (e.g., `Sales_April_2019.csv`, `Sales_May_2019.csv`, etc.).
 
 ---
-
-## ▶️ How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/sales-data-analysis.git
